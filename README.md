@@ -95,7 +95,7 @@ We welcome contributions to improve AI PDF Analyzer. Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-##LinkedIn Post
+### LinkedIn Post
 https://www.linkedin.com/feed/update/urn:li:activity:7223167798754041856/
 
 ---
