@@ -95,12 +95,7 @@ We welcome contributions to improve AI PDF Analyzer. Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Contact
-
-For questions or support, please contact:
-
-- **Aaditya Ranjan Moitra**
-- **Email:** aadityaranjanmoitra@gmail.com
-- **GitHub:** [AadityaSukhoi](https://github.com/AadityaSukhoi)
+##LinkedIn Post
+https://www.linkedin.com/feed/update/urn:li:activity:7223167798754041856/
 
 ---
