@@ -96,6 +96,5 @@ We welcome contributions to improve AI PDF Analyzer. Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### LinkedIn Post
-https://www.linkedin.com/feed/update/urn:li:activity:7223167798754041856/
-
+https://www.linkedin.com/posts/aaditya-ranjan-moitra-211493270_ai-pdfanalyzer-googleai-activity-7223167798754041856-Z99n?utm_source=share&utm_medium=member_desktop
 ---
