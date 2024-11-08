@@ -3,6 +3,13 @@
 
 AI PDF Analyzer is an AI-powered tool designed to analyze and extract information from PDF documents. It leverages advanced algorithms to provide insights and data extraction capabilities.
 
+
+
+## DEMO
+
+https://github.com/user-attachments/assets/e60d892a-9abb-46be-a54b-8cc5d1a3b0a1
+
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
