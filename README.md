@@ -38,7 +38,7 @@ AI PDF Analyzer is built to help users efficiently extract and analyze content f
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/AI-PDF-Analyzer.git
+    git clone https://github.com/AadityaSukhoi/AI-PDF-Analyzer.git
     cd AI-PDF-Analyzer
     ```
 
